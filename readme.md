@@ -11,3 +11,4 @@ git commit --amend --no-edit
 
 git remote add origin URL.git
 - 'origin' is common practiced but can be named anything 
+- origin is the name of the remote
